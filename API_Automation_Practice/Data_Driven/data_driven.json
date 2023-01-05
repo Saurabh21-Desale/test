@@ -1,0 +1,26 @@
+{
+  "test_data": [
+    {
+      "ProjectId": "101",
+      "ProjectName": "TOTUM-1",
+      "Description": "this is arrk project",
+      "StartDate": "12/11/2022",
+      "EndDate": "12/11/2021",
+      "CustomerId": "ABC0123",
+      "Type": "Service",
+      "RevenueType": "Fixed Bid",
+      "CurrentStatus": "Closed"
+    },
+    {
+      "ProjectId": "102",
+      "ProjectName": "TOTUM-2",
+      "Description": "this is organisation project",
+      "StartDate": "12/11/2022",
+      "EndDate": "12/11/2021",
+      "CustomerId": "ABC0123",
+      "Type": "Service",
+      "RevenueType": "Fixed Bid",
+      "CurrentStatus": "Closed"
+    }
+  ]
+}
